@@ -1,3 +1,4 @@
+// Force trigger CI build
 // 1. 匯入必要的模組與型別
 import { fetchApi } from '@libs/fetch';
 import { Plugin } from '@typings/plugin';
